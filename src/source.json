@@ -1,0 +1,29 @@
+{
+	"name": "Test file",
+	"people": [
+		{
+			"age": 12,
+			"name": "Sam"
+		},
+		{
+			"age": 20,
+			"name": "Bob"
+		},
+		{
+			"age": 42,
+			"name": "Tom"
+			},
+		{
+			"age": 34,
+			"name": "Sandy"
+		},
+		{
+			"age": 26,
+			"name": "Mike"
+		},
+		{
+			"age": 22,
+			"name": "John"
+		}
+	]
+}
